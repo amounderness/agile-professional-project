@@ -1,10 +1,10 @@
 # agile-professional-project
 
-A Python web assistant prototype that uses an LLM and retrieval-augmented generation (RAG) to help STAR programme students find university information with clear source links.
+We’re building a small Python assistant to help students find university support information using saved university pages, with clear source links. We’re currently exploring initial prototypes using Disability and Inclusive Support.
 
 ## Project aim
 
-This second-year CO2007 Agile Professional team project aims to make university information easier to find for disabled students preparing for the Student Transition and Residential (STAR) programme. Answers to common questions are spread across many university web pages. We intend to bring that information together through a simple, accessible question-and-answer interface that works on computers and mobile devices.
+This second-year CO2007 Agile Professional team project aims to make university support information easier to find, starting with Disability and Inclusive Support, including STAR, and Mental Health and Wellbeing. We intend to provide a simple, accessible question-and-answer interface that works on computers and mobile devices.
 
 ## How it will likely work
 
@@ -23,4 +23,6 @@ This matters when students are looking for support: misleading information could
 
 ## Current status
 
-The project is at the planning stage; no application has been implemented yet. This is a prototype, with testing limited to students on the module and the client, using made-up questions rather than personal or health information.
+Sprint 2 runs from 25 November to 8 December 2026. Each team member is attempting an initial prototype using the saved Disability and Inclusive Support page, aiming to answer at least one question with its source. Console and local web versions are both welcome during this phase. Our internal review is on 9 December.
+
+See the [wiki](https://github.com/amounderness/agile-professional-project/wiki/Start-Here) for the requirements and build plan, and [Team Planning](https://github.com/users/amounderness/projects/3) for current tasks. Testing is limited to students on the module and the client, using fictional questions rather than personal or health information.
